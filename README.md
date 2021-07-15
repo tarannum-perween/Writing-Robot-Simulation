@@ -4,5 +4,4 @@
 - The Software used in CopeliaSim/V-rep.
 - You can see the project Video [here](https://www.youtube.com/watch?v=Q5fnPL1VV9s)
 
-The Simulation Looks like this.
-[](https://github.com/tarannum-perween/Writing-Robot-Simulation/blob/main/Screenshot%20(138).png)
+The Simulation Looks like this![Screenshot138](https://github.com/tarannum-perween/Writing-Robot-Simulation/blob/main/Screenshot%20(138).png)
